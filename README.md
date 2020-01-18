@@ -1,1 +1,1 @@
-# TSP---Genetic-Algorithm
+# TSP-GeneticAlgorithm
